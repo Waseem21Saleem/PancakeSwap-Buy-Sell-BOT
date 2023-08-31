@@ -7,10 +7,10 @@ PancakeSwap Buy & Sell BOT - V1.0 Released 31.08.2023 by Waseem Saleem
 - Only works for BSC tokens that has 0% Buy/Sell tax 
 
 Download PCS_BOT.zip file and run PancakeBOT.exe to use the bot
-How to use:
 
-	1. Paste your wallet's private key ( you can get it from MetaMask/Trust wallet... ).
-	2. Press Connect and the app will show you your wallet address, BNB balance and its worth in BUSD.
+	How to use:
+ 		1. Paste your wallet's private key ( you can get it from MetaMask/Trust wallet... ).
+		2. Press Connect and the app will show you your wallet address, BNB balance and its worth in BUSD.
 	Buy tokens:
 		3. Paste the address of the token you want to buy ( you can get it from bscScan/coinMarketCap... ).
 		4. Press Check balance and the app will show you your token balance and its worth in BUSD.
