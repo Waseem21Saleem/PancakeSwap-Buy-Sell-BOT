@@ -8,6 +8,7 @@ PancakeSwap Buy & Sell BOT - V1.0 Released 31.08.2023 by Waseem Saleem
 
 
 How to use:
+
 	1. Paste your wallet's private key ( you can get it from MetaMask/Trust wallet... ).
 	2. Press Connect and the app will show you your wallet address, BNB balance and its worth in BUSD.
 	Buy tokens:
