@@ -24,8 +24,18 @@ How to use:
 
 
 Personal Links:
+
 	LinkedIn: https://www.linkedin.com/in/waseem-saleem-276432248/
 	GitHub: https://github.com/Waseem21Saleem
+
+Programs I used to make this app:
+
+	PyCharm Community Edition - coded in python
+ 	QT Designer - app interface
+
+API list:
+	PancakeSwap API - to connect wallet and get balances
+ 	Moralis API - to get tokens prices
 
 -Please leave comments bellow in GitHub if you find any error, specify the token you were trying to buy/sell and I will try my best to fix it asap.
 
