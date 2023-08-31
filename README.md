@@ -34,6 +34,7 @@ Programs I used to make this app:
  	QT Designer - app interface
 
 API list:
+
 	PancakeSwap API - to connect wallet and get balances
  	Moralis API - to get tokens prices
 
