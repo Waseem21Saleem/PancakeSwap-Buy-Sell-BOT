@@ -1,14 +1,12 @@
 PancakeSwap Buy & Sell BOT - V1.0 Released 31.08.2023 by Waseem Saleem
-'
-'
-'
+
+
 - This app helps you buy and sell BSC tokens from PancakeSwap faster, cheaper and easier than any website
 - No data gets saved, and it is for free.. 
 - No transactions are made except those appear on the application it self (Buy/Approve/Sell)
 - Only works for BSC tokens that has 0% Buy/Sell tax 
-'
-'
-'
+
+
 How to use:
 	1. Paste your wallet's private key ( you can get it from MetaMask/Trust wallet... ).
 	2. Press Connect and the app will show you your wallet address, BNB balance and its worth in BUSD.
