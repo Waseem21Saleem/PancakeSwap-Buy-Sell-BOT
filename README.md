@@ -1,42 +1,34 @@
-PancakeSwap Buy & Sell BOT - V1.0 Released 31.08.2023 by Waseem Saleem
+# PancakeSwap Buy & Sell BOT
 
+## Overview
+This Python-based application enables users to buy and sell Binance Smart Chain (BSC) tokens from PancakeSwap quickly, affordably, and conveniently.
 
-- This app helps you buy and sell BSC tokens from PancakeSwap faster, cheaper and easier than any website
-- No data gets saved, and it is for free.. 
-- No transactions are made except those appear on the application it self (Buy/Approve/Sell)
-- Only works for BSC tokens that has 0% Buy/Sell tax 
+## Features
+- No user data is stored.
+- Free to use.
+- Transactions are executed only through the application itself (Buy/Approve/Sell).
+- Limited to BSC tokens with 0% Buy/Sell tax.
 
-Download PCS_BOT.zip file and run PancakeBOT.exe to use the bot
+## How to Use
+1. Paste your wallet's private key (obtained from MetaMask/Trust Wallet).
+2. Press Connect to display your wallet address, BNB balance, and its worth in BUSD.
+3. For buying tokens: Paste the token address, check balance, enter BNB amount, and press Buy.
+4. For selling tokens: Paste the token address, check balance, enter token amount, and press Sell.
 
-	How to use:
- 		1. Paste your wallet's private key ( you can get it from MetaMask/Trust wallet... ).
-		2. Press Connect and the app will show you your wallet address, BNB balance and its worth in BUSD.
-	Buy tokens:
-		3. Paste the address of the token you want to buy ( you can get it from bscScan/coinMarketCap... ).
-		4. Press Check balance and the app will show you your token balance and its worth in BUSD.
-		5. Enter the amount of BNB you want to spend and press Buy.
-		6. The status of the buy proccess will appear and the transaction link as well (if succeeded).
-	Sell tokens:
-		7. Paste the address of the token you want to sell ( you can get it from bscScan/coinMarketCap... ).
-		8. Press Check balance and the app will show you your token balance and its worth in BUSD.
-		9. Enter the amount of tokens you want to sell and press Sell.
-		10.The status of the sell proccess will appear and the approval&transaction link as well (if succeeded).
+## Personal Links
+- LinkedIn: [Waseem Saleem](https://www.linkedin.com/in/waseem-saleem-276432248/)
+- GitHub: [Waseem21Saleem](https://github.com/Waseem21Saleem)
 
+## Programs Used
+- PyCharm Community Edition: Coded in Python.
+- QT Designer: App interface design.
 
-Personal Links:
+## APIs Used
+- PancakeSwap API: Connect wallet and get balances.
+- Moralis API: Get tokens prices.
 
-	LinkedIn: https://www.linkedin.com/in/waseem-saleem-276432248/
-	GitHub: https://github.com/Waseem21Saleem
+## Contributions
+Contributions to the project are welcome! Feel free to fork this repository, make your changes, and submit a pull request.
 
-Programs I used to make this app:
-
-	PyCharm Community Edition - coded in python
- 	QT Designer - app interface
-
-API list:
-
-	PancakeSwap API - to connect wallet and get balances
- 	Moralis API - to get tokens prices
-
--Please leave comments bellow in GitHub if you find any error, specify the token you were trying to buy/sell and I will try my best to fix it asap.
-
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
